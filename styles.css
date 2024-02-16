@@ -1,0 +1,21 @@
+body {
+	background-image: url(https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 100px;
+  color: whitesmoke;
+}
+
+table {
+	text-align: justify;
+}
+
+th {
+	text-align: center;
+}
+
