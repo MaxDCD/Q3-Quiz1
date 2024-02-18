@@ -11,8 +11,16 @@ h1 {
   color: whitesmoke;
 }
 
+h4 {
+  text-decoration: underline;
+}
+
+h5 {
+  text-decoration: underline;
+}
+
 table {
-	text-align: justify;
+  table-layout: fixed;
 }
 
 th {
